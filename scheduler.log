@@ -9,3 +9,8 @@
 2019-12-21 16:47:11,055 - INFO: echo This runs on the 47th minute of every hour
 2019-12-21 16:48:11,053 - INFO: echo This runs every 2 minutes
 2019-12-21 16:48:11,058 - INFO: cat schedule
+2019-12-21 17:10:25,239 - INFO: Starting Scheduler
+2019-12-21 17:10:59,834 - INFO: Starting Scheduler
+2019-12-21 17:11:13,927 - INFO: Starting Scheduler
+2019-12-21 17:12:13,992 - INFO: echo This runs every 2 minutes
+2019-12-21 17:12:13,996 - INFO: cat schedule

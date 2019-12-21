@@ -19,8 +19,9 @@ For example:
 
     7 */2 * * echo "Hello World!"\
 
-will run at the 7th minute of every second hour. Note that this is done when `hour%2=0`, so it will run at 02:07, 04:07, 06:07 etc. regardless of when it is started.  
+will run at the 7th minute of every second hour. Note that this is done when `hour%2=0`, so it will run at 02:07, 04:07, 06:07 etc. regardless of when it is started.\
 
+The script also supports the option `-v` or `--verbose` to log output to the command line as well as the logfile.
 ## Limitations
 
 * This can only run things at specified dates/times as outlined above; it cannot run things at regular intervals from the time this script is started
