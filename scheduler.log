@@ -1,3 +1,11 @@
-Starting scheduler at 2019-12-21 15:09:22.992147
-2019-12-21 15:09:22.993375 ['date']
-2019-12-21 15:09:22.994411 ['echo', '1 minute job']
+2019-12-21 16:44:11,284 - INFO: Starting Scheduler
+2019-12-21 16:44:11,285 - INFO: echo This runs every 2 minutes >> output
+2019-12-21 16:44:42,523 - INFO: Starting Scheduler
+2019-12-21 16:44:42,525 - INFO: echo This runs every 2 minutes
+2019-12-21 16:44:42,526 - INFO: cat schedule 
+2019-12-21 16:45:10,988 - INFO: Starting Scheduler
+2019-12-21 16:46:11,054 - INFO: echo This runs every 2 minutes
+2019-12-21 16:46:11,060 - INFO: cat schedule
+2019-12-21 16:47:11,055 - INFO: echo This runs on the 47th minute of every hour
+2019-12-21 16:48:11,053 - INFO: echo This runs every 2 minutes
+2019-12-21 16:48:11,058 - INFO: cat schedule
