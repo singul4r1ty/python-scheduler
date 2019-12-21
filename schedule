@@ -1,2 +1,2 @@
-* * * * * date
-1 * * * * echo "1 minute job"
+* * * * date
+* * * * echo "1 minute job"
