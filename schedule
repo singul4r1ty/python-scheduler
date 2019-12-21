@@ -2,4 +2,3 @@
 */2 * * * cat schedule
 47 * * * echo "This runs on the 47th minute of every hour"
 55 15 * * echo "This runs at 15:55 every day"
-
